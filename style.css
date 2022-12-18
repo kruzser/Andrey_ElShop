@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+}
+header {
+background-color: orange;
+}
+a {
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    border: white 1px solid; 
+    border-radius: 10px;
+    padding: 5px;
+   margin: 10px;
+  
+}
+
+nav{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: orange;
+    
+}
+
+nav a{
+    margin-left: 40px;
+}
+
+.contacts{
+    border: black 1px solid;
+}
+.logo {
+    border: black 1px solid;
+}
+main, h1 {
+    text-align: center;
+}
+main {
+    border: orange 5px solid;
+    border-radius: 10px;
+}
+
+.kartinka{
+    border-top: 5px orange dashed;
+    padding-top: 10px;
+}
+
+.hru{
+    border-top:  5px orange dashed;
+    padding-top: 10px;
+}
+.ponyatno {
+    border-top:  5px orange dashed;
+    padding-top: 10px;
+}
+.rossiya {
+    border-top:  5px orange dashed;
+    padding-top: 10px;
+}
